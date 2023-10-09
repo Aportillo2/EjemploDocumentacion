@@ -3,8 +3,7 @@
 
 
 ## Integrantes 
-- Esteban M. Quiroz
-- Dario Cuda 
+-Alexis Portillo
 
 
 ## Proyecto: Contador binario.
