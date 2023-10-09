@@ -1,4 +1,4 @@
-# Ejemplo Documentación 
+# Parcial Alexis Portillo 1D
 ![Tinkercad](./img/ArduinoTinkercad.jpg)
 
 
